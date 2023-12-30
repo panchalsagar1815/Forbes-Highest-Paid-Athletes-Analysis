@@ -1,6 +1,6 @@
 # Forbes-Highest-Paid-Athletes-Analysis
 
-Project Title: Forbes Highest-Paid Athletes Analysis
+
 
 
 The "Forbes Highest-Paid Athletes Analysis" project is a comprehensive study aimed at unraveling insights into the financial aspects of top-performing athletes. The dataset includes key features such as Serial Number (S.NO), Name, Nationality, Current Rank, Previous Year Rank, Sport, Year, and earnings in million dollars ($ million).
